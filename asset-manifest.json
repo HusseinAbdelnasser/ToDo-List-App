@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/HusseinAbdelnasser/ToDo-List-App.git/static/css/main.3a7ede8e.chunk.css",
+    "main.js": "/HusseinAbdelnasser/ToDo-List-App.git/static/js/main.d6924ac8.chunk.js",
+    "main.js.map": "/HusseinAbdelnasser/ToDo-List-App.git/static/js/main.d6924ac8.chunk.js.map",
+    "runtime-main.js": "/HusseinAbdelnasser/ToDo-List-App.git/static/js/runtime-main.4edf5dd4.js",
+    "runtime-main.js.map": "/HusseinAbdelnasser/ToDo-List-App.git/static/js/runtime-main.4edf5dd4.js.map",
+    "static/js/2.84c5a80d.chunk.js": "/HusseinAbdelnasser/ToDo-List-App.git/static/js/2.84c5a80d.chunk.js",
+    "static/js/2.84c5a80d.chunk.js.map": "/HusseinAbdelnasser/ToDo-List-App.git/static/js/2.84c5a80d.chunk.js.map",
+    "static/js/3.535b7792.chunk.js": "/HusseinAbdelnasser/ToDo-List-App.git/static/js/3.535b7792.chunk.js",
+    "static/js/3.535b7792.chunk.js.map": "/HusseinAbdelnasser/ToDo-List-App.git/static/js/3.535b7792.chunk.js.map",
+    "index.html": "/HusseinAbdelnasser/ToDo-List-App.git/index.html",
+    "static/css/main.3a7ede8e.chunk.css.map": "/HusseinAbdelnasser/ToDo-List-App.git/static/css/main.3a7ede8e.chunk.css.map",
+    "static/js/2.84c5a80d.chunk.js.LICENSE.txt": "/HusseinAbdelnasser/ToDo-List-App.git/static/js/2.84c5a80d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4edf5dd4.js",
+    "static/js/2.84c5a80d.chunk.js",
+    "static/css/main.3a7ede8e.chunk.css",
+    "static/js/main.d6924ac8.chunk.js"
+  ]
+}
